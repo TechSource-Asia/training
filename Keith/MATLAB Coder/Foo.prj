@@ -591,7 +591,7 @@
     <param.AutoInferUnboundedSizeThreshold>2048</param.AutoInferUnboundedSizeThreshold>
     <param.EnableFixedPointStep>false</param.EnableFixedPointStep>
     <param.EnableScreener>true</param.EnableScreener>
-    <param.AnnotationChecksum>2280553767</param.AnnotationChecksum>
+    <param.AnnotationChecksum>595159847</param.AnnotationChecksum>
     <var.LegacyTarget />
     <var.MirrorOnOpen>false</var.MirrorOnOpen>
     <param.FixedPointEnabled>false</param.FixedPointEnabled>
@@ -603,7 +603,7 @@
     <var.gc.lastOutputType>C_CODE</var.gc.lastOutputType>
     <var.gc.preBuildChecksum>718544954</var.gc.preBuildChecksum>
     <var.cfi.lastOutputRoot>codegen\mex\Foo</var.cfi.lastOutputRoot>
-    <var.cfi.preBuildChecksum>2298981459</var.cfi.preBuildChecksum>
+    <var.cfi.preBuildChecksum>3932070004</var.cfi.preBuildChecksum>
     <var.lastCfiTestSnippet>Testbench</var.lastCfiTestSnippet>
     <var.outdatedOnRestore>false</var.outdatedOnRestore>
     <var.lastUserSourceChecksum>&lt;?xml version="1.0" encoding="UTF-8" standalone="yes"?&gt;&lt;checksum&gt;&lt;includedFiles&gt;&lt;file&gt;C:\Users\KeithLeong\Documents\MATLAB\Git Train\Keith\MATLAB Coder\Foo.m&lt;/file&gt;&lt;/includedFiles&gt;&lt;value&gt;2925708593&lt;/value&gt;&lt;/checksum&gt;</var.lastUserSourceChecksum>
@@ -856,7 +856,7 @@
     </unset>
     <fileset.entrypoints>
       <file custom-data-expanded="false" value="${PROJECT_ROOT}\Foo.m">
-        <Marker>1670759390135</Marker>
+        <Marker>1670760034877</Marker>
       </file>
     </fileset.entrypoints>
     <fileset.testbench>
